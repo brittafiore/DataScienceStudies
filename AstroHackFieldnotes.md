@@ -9,12 +9,12 @@ I have only spent 5 days among the community of astro hackers, but in the spirit
 
 ##Initial descriptive observations from an outsider (a little tongue-in-cheek, forgive me):
 
-*You live in a very dusty, dirty, and noisy environment. Very hard to keep clean and elaborate measures are taken to obtain a signal. But when the signal is too strong or the data too clean, there is a feeling of mistrust. 
-*The common language is Python, although there are many other dialects, some entirely made of acronyms, others sound like common names, such as George and Julia.
-*When talking there is always some form of data or documentation that mediates the conversation, whether it is on the white board, on the screen, or through representational gestures.
-*Although most people are studying something that has to do with astronomy, they can literally be operating on "different wavelengths"
-*You play with "toys" and "fake data" as much as "real world data" 
-*Coffee and beer fuel interactivity
+* You live in a very dusty, dirty, and noisy environment! Very hard to keep clean and elaborate measures are taken to obtain a signal. But when the signal is too strong or the data too clean, there is a feeling of mistrust. 
+* The common language is Python, although there are many other dialects, some entirely made of acronyms, others sound like common names, such as George and Julia.
+* When talking there is always some form of data, documentation or model that mediates the conversation, whether it is on the white board, on the screen, or through representational gestures.
+* Although most people are studying something that has to do with astronomy, they can literally be operating on "different wavelengths"!
+* You play with "toys" and "fake data" as much as "real world data"! 
+* Coffee and beer fuel interactivity!
 
 ##Themes
 
@@ -34,9 +34,8 @@ I categorized the different kinds of hacking interactions I observed over the co
 
 **The Importance of "Connective Tissue"** 
 
-Across this community there is great diversity across institution, dataset, data source, methodology, computing tools and packages, statistical approach, status within academia, and level of knowledge in different arenas. This creates many opportunities for discovering connections, for sharing, and working together. Yet this also presents challenges for forging these connections especially within the broader academic environment which in many ways doesn't incentivize collaboration and failing fast. 
+Across this community there is great diversity across institution, dataset, data source, methodology, computing tools and packages, statistical approach, status within academia, and level of knowledge in different arenas. This creates many opportunities for discovering connections, for sharing, and working together. Yet this also presents challenges for forging these connections especially within the broader academic environment which in many ways doesn't incentivize collaboration and "failing fast". Failing fast refers to the capacity to be highly experimental, to take risks, and invest a little bit often, such that when things don't work, it is framed much more as part of the iterative process rather than as a significant loss. In a culture where people are failing fast, people are more likely to take risks and learning can happen more rapidly. 
 
 A key and essential role that emerged this week was the set of capacities for facilitating connection across people and ideas, what Fernando Perez has called the "connective tissue". There is a need both the people and the organizational structure that supports social and technical resonances across a wide range of people and can facilitate connections among them. These people can play a role of translation across ideas that might appear otherwise unrelated. They also provide coaching (as opposed to teaching) to help both identify and achieve their goals. We should all be learning from these people so that we can all contribute to the connective tissue. This connective tissue developed further throughout the week. Specifically, the more semi-structured collective learning activities and the emphasis on working in pairs greatly increased the productivity across the group (there was more to show at the end of the day) and the interaction (fewer people with earphones in and more talking). I also observed many more small and big shared victories. I hadn't yet seen a high five and I saw two instances on Thursday, which reflected the overall sense that the victory was about more than an individual completing the hack, rather it was shared and celebrated together.
 
-This hack week performs as a kind of lab space where people can take risks and work together in new ways that they might not be incentivized to do otherwise. It is an opportunity to change the incentives for a short period of time. In fact, the frictions that we see emerge in this hack week (i.e. people needing to work towards publications) reflect some of the default incentives clashing with hack week incentives. Part of the goal of the hack week might be to learn about how to work together.
-My hypothesis is that the themes and lessons emerging out from this hack week represent a microcosm for what is happening outside the hack week in the university.
+This hack week performs as a kind of lab space where people can take risks and work together in new ways that they might not be incentivized to do otherwise. It is an opportunity to change the incentives for a short period of time. In fact, the frictions that we see emerge in this hack week (i.e. people needing to work towards publications) reflect some of the default incentives clashing with hack week incentives. For future hack weeks it might be important to advocate failing fast through normalizing it and facilitating a supportive environnment for risk taking. In addition, part of the goal of a future hack week might be more explicitly to learn about how to work together and what it takes to develop connective tissue through incentivizing a range of different hacking interactions. 
