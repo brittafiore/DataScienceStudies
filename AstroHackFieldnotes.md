@@ -8,12 +8,12 @@ Ethnography can be thought of as a form of big data. Typically hundreds of pages
 I have only spent 5 days among the community of astro hackers, but in the spirit of hacking, I have a few "hacked" fieldnotes to share. Sharing is a key component of the hack week and as a participant I feel it is important to follow suit. But bear in mind these thoughts are preliminary. So, what have I been working on this week?
 
 ##Initial descriptive observations from an outsider (a little tongue-in-cheek, forgive me):
-	*You live in a very dusty, dirty, and noisy environment. Very hard to keep clean and elaborate measures are taken to obtain a signal. But when the signal is too strong or the data too clean, there is a feeling of mistrust. 
-	*The common language is Python, although there are many other dialects, some entirely made of acronyms, others sound like common names, such as George and Julia.
-	*When talking there is always some form of data or documentation that mediates the conversation, whether it is on the white board, on the screen, or through representational gestures.
-	*Although most people are studying something that has to do with astronomy, they can literally be operating on "different wavelengths"
-	*You play with "toys" and "fake data" as much as "real world data" 
-	*Coffee and beer fuel interactivity
+*You live in a very dusty, dirty, and noisy environment. Very hard to keep clean and elaborate measures are taken to obtain a signal. But when the signal is too strong or the data too clean, there is a feeling of mistrust. 
+*The common language is Python, although there are many other dialects, some entirely made of acronyms, others sound like common names, such as George and Julia.
+*When talking there is always some form of data or documentation that mediates the conversation, whether it is on the white board, on the screen, or through representational gestures.
+*Although most people are studying something that has to do with astronomy, they can literally be operating on "different wavelengths"
+*You play with "toys" and "fake data" as much as "real world data" 
+*Coffee and beer fuel interactivity
 
 ##Themes
 
