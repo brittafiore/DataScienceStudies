@@ -9,8 +9,9 @@ The mythological, elusive nature of the ideal data scientist was supported throu
 
 _T, \Pi, \Gamma, \Mu network. A network view of community-level data science reveals a mix of T-shaped, \Gamma-shaped, \Mu-shaped, and \Pi-shaped scientists practicing data science._
 [![Creative Commons License](http://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)
+This image by Brittany Fiore-Gartland is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License
 
-In order to understand what practicing  data science looks like more precisely we embedded ourselves in the Data Science Incubator (DSI) program at University of Washington’s eScience Institute so that we could observe a cross-section of data science collaborations from across the campus. DSI is a program that aims to bring together data scientists and domain scientists to work on focused, intensive, collaborative projects over the course of an academic quarter. The program solicits proposals from scientists across campus for projects that require data science expertise. The accepted applicants are then paired with one or two data science liaisons at the eScience Institute. 
+In order to understand what practicing data science looks like more precisely we embedded ourselves in the Data Science Incubator (DSI) program at University of Washington’s eScience Institute so that we could observe a cross-section of data science collaborations from across the campus. DSI is a program that aims to bring together data scientists and domain scientists to work on focused, intensive, collaborative projects over the course of an academic quarter. The program solicits proposals from scientists across campus for projects that require data science expertise. The accepted applicants are then paired with one or two data science liaisons at the eScience Institute. 
 
 As ethnographers we were participant observers in the DSI and found that it represents a promising model for cultivating what we term community-level data science. Instead of breeding unicorns that embodied the singular, ideal “data scientist”, we found that the DSI fosters data science practice on the community level such that work is distributed across domain and methods-based approaches and occurs at the intersections of these different forms of expertise. Beyond acknowledging the DSI’s role in advancing their particular research projects,  participants articulated an awareness that they were engaged the process of learning what it means to be part of a data science community. In other words, participants recognized data science as a cultural practice. 
 
@@ -23,7 +24,8 @@ This program provides a window into a range of data science collaborations that 
 ![Image of Spheres of Influence](https://github.com/brittafiore/DataScience/blob/master/Incubator_orbits_4.jpg)
 
 [![Creative Commons License](http://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)
-    
+This image by Paul Roberts is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License
+
 ### Individual 
 Some participants told us that data science helped distinguish them from other scholars in their fields by equipping them with uncommon skills or enabling them to generate novel data sets. For example, one participant told us:
 
