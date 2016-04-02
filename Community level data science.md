@@ -5,9 +5,7 @@ Data science has many characterizations, but in academia it is often talked abou
 
 The mythological, elusive nature of the ideal data scientist was supported through our ethnographic fieldwork. In search of these so-called “data scientists” across the data science environment, we could find scarcely anyone who consistently identified as a “data scientist.” We found more often that “data scientist” was a partial and relational identity, one layer of many. We encountered lots of data science, emerging across a network of interactions across a multitude of differently shaped scientists, from T to \Gamma to \Pi to even \Mu-shaped! Individuals mostly did not see themselves as particularly \Pi-shaped, a category many reserved for only a very select few that had accomplished an exceptional level of expertise and contribution to multiple fields. As one of us has discussed [elsewhere](http://astrohackweek.github.io/blog/ethnographic-notes.html), perhaps a more realistic characterization of data science includes a network of differently shaped scientists practicing data science on a community level. 
 
-<img src="https://github.com/brittafiore/DataScience/blob/master/Network.png" alt="Network" height="100">
-
-[//]: # ![Network](https://github.com/brittafiore/DataScience/blob/master/Network.png)
+<img src="https://github.com/brittafiore/DataScience/blob/master/Network.png" alt="Network" height="500">
 
 _T, \Pi, \Gamma, \Mu network. A network view of community-level data science reveals a mix of T-shaped, \Gamma-shaped, \Mu-shaped, and \Pi-shaped scientists practicing data science._
 
@@ -24,8 +22,7 @@ This program provides a window into a range of data science collaborations that 
 
 
 ## Spheres of Influence
-![Image of Spheres of Influence](https://github.com/brittafiore/DataScience/blob/master/Incubator_orbits_4.jpg)
-
+<img src="https://github.com/brittafiore/DataScience/blob/master/Incubator_orbits_4.jpg" alt="Spheres" height="500">
 [![Creative Commons License](http://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)
 This image by Paul Roberts is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License
 
