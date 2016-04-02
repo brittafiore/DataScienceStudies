@@ -7,7 +7,7 @@ The mythological, elusive nature of the ideal data scientist was supported throu
 
 ![Network](https://github.com/brittafiore/DataScience/blob/master/Network.png)
 
-_T, \Pi, \Gamma, \Mu network. A network view of community-level data science reveals a mix of T-shaped, \Gamma-shaped, \Mu-shaped, and \Pi-shaped scientists practicing data science._
+_$T, \Pi, \Gamma, \Mu$ network. A network view of community-level data science reveals a mix of T-shaped, \Gamma-shaped, \Mu-shaped, and \Pi-shaped scientists practicing data science._
 
 [![Creative Commons License](http://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)
 This image by Brittany Fiore-Gartland is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License
