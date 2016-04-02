@@ -23,6 +23,7 @@ This program provides a window into a range of data science collaborations that 
 
 ## Spheres of Influence
 <img src="https://github.com/brittafiore/DataScience/blob/master/Incubator_orbits_4.jpg" alt="Spheres" height="500">
+
 [![Creative Commons License](http://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)
 This image by Paul Roberts is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License
 
