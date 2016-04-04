@@ -30,7 +30,7 @@ This image by Paul Roberts is licensed under a Creative Commons Attribution-NonC
 ### Individual 
 Some participants told us that data science helped distinguish them from other scholars in their fields by equipping them with uncommon skills or enabling them to generate novel data sets. For example, one participant told us:
 
->“[When] you are on the job market you present kind of one paper that you are going to be a solo author on and it's becoming less and less common to use these kind of prepackaged data sets. **It's starting to be that you need to bring new data to the table, to answer any questions, to get a good job.**”
+>[When] you are on the job market you present kind of one paper that you are going to be a solo author on and it's becoming less and less common to use these kind of pre-packaged data sets. **It's starting to be that you need to bring new data to the table, to answer any questions, to get a good job.**
 
 Data science in this case is imagined to be influencing the sphere of the individual by providing researchers with skills, tools, and data that can help them advance their career and professional goals. 
 
@@ -38,7 +38,7 @@ Data science in this case is imagined to be influencing the sphere of the indivi
 
 Other participants have come to the data science incubator hoping to gain new skills and learn new tools or systems they can take back to their labs or collaborative research groups in order to optimize their workflow. For one participant, it was about using the tools and techniques learned in the incubator for automating an existing workflow that involved processing files manually. For another participant it was about bringing a more seamless and transparent workflow to their lab using Git. In the words of this participant: 
 
->**What I'd like to do is build a better infrastructure.** Programming is on Git, so I can look at [lab member’s] programs. I can download them. I can check them. [....] "Do I trust this code? Do I not trust this code? How much is this a bunch of hacks? How much is this tidy code?" [....] I knew I wanted to start using Git. I did not use Git, so then moving [the] lab over and doing it, [when you] don't even know how to use it yourself, it's just never ever going to work.” 
+>**What I'd like to do is build a better infrastructure.** Programming is on Git, so I can look at [lab member’s] programs. I can download them. I can check them. [....] "Do I trust this code? Do I not trust this code? How much is this a bunch of hacks? How much is this tidy code?" [....] I knew I wanted to start using Git. I did not use Git, so then moving [the] lab over and doing it, [when you] don't even know how to use it yourself, it's just never ever going to work. 
 
 What was important about this person’s data science incubator experience was the acquisition of new skills and tools that would allow her to streamline and optimize work routines across a team of faculty and student researchers. For a number of participants, it is not necessarily about scientific advancement in the short term; rather it is about investing in scientific advancement and productivity in the long term. This perspective foregrounds the potential for community-level data science to influence the sphere of the laboratory. 
 
@@ -46,7 +46,7 @@ What was important about this person’s data science incubator experience was t
 
 Sometimes, participants saw data science as providing novel ways of developing theory within their discipline. One participant told us: 
 
->"[Traditional theorists in my field] say 'This is my regression model.  It's these x's that I guessed, basically, are important…Then I'm going to use that model to predict y.'  There's never a process of kicking out any regressors that are potentially unimportant.  We consider that to be a very old-timey way of doing it.  **That's the way we've been doing it since before we had these machine learning techniques that could tell us that stuff.**”
+>[Traditional theorists in my field] say 'This is my regression model.  It's these x's that I guessed, basically, are important…Then I'm going to use that model to predict y.'  There's never a process of kicking out any regressors that are potentially unimportant.  We consider that to be a very old-timey way of doing it.  **That's the way we've been doing it since before we had these machine learning techniques that could tell us that stuff.**
 
 This person sees data science as providing a new way of knowing, or introducing epistemological novelty to his particular domain. So in this case, we can consider data science to be influencing the disciplinary sphere. 
 
@@ -54,7 +54,7 @@ This person sees data science as providing a new way of knowing, or introducing 
 
 Another area of novelty people sometimes identified was their contribution to the development of data science tools. One participant described her experience this way:
 
->"… I was one of the only people doing these calculations and doing a lot of numerical stuff through [the newly developed cloud-based data management system]. I think a lot of the other queries were looking at text. It was kind of a different focus. **I was finding some really good bugs for them.**" 
+>… I was one of the only people doing these calculations and doing a lot of numerical stuff through [the newly developed cloud-based data management system]. I think a lot of the other queries were looking at text. It was kind of a different focus. **I was finding some really good bugs for them.** 
 
 Because the contributions she made could potentially affect anyone who is using or developing the new tool, in this case we’ve characterized community-level data science as influencing the sphere of the user/developer community. 
 
@@ -62,7 +62,7 @@ Because the contributions she made could potentially affect anyone who is using 
 
 Sometimes researchers were developing novel approaches to examining an object of study that is common across a number of fields. This was the case with one participant who was developing tools and methods to analyze the entire corpus of text on the Internet Archive:
 
->"At this conference we went to, there was a group of people that were trying to do link analysis [on the Internet Archive] …. I’ve been looking at the text. I told them … I’d send them all of the stuff that I’ve done, and they were really excited about that because they want to start looking at the text, but **they hadn’t considered doing that yet because it’s 90 terabytes of text. How do you look at that?!**" 
+>At this conference we went to, there was a group of people that were trying to do link analysis [on the Internet Archive] …. I’ve been looking at the text. I told them … I’d send them all of the stuff that I’ve done, and they were really excited about that because they want to start looking at the text, but **they hadn’t considered doing that yet because it’s 90 terabytes of text. How do you look at that?!**
 
 In cases like this, the methods and tools being developed could be applied to similar data generated and analyzed across different academic domains. Therefore, we can think of community-level data science as potentially influencing the cross-disciplinary sphere. 
 
@@ -70,7 +70,7 @@ In cases like this, the methods and tools being developed could be applied to si
 
 At times, participants in our study talked about how novel data science tools and methods they were developing could be applied to questions beyond academia. This idea was expressed by a participant who thought his algorithms for analyzing time series might have commercial applications with other types of data:
 
->"I would love to, for example, start a company up, that tries to model all these time domain streams coming from wearables or the internet of things. Where these things are producing these data streams and people aren't necessarily listening. But if they were – **if you had the right software listening to these streams – you could actually understand what's happening.**" 
+>I would love to, for example, start a company up, that tries to model all these time domain streams coming from wearables or the internet of things. Where these things are producing these data streams and people aren't necessarily listening. But if they were – **if you had the right software listening to these streams – you could actually understand what's happening.** 
 
 Because this person envisions taking software that was developed for academic research and adapting it for use in a commercial setting, we can say that the imagined influence of data science is taking place in a cross-sector sphere that spans academic and commercial sectors, as well as public and private sectors. 
 
