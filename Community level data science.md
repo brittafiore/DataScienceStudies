@@ -7,7 +7,7 @@ The mythological, elusive nature of the ideal data scientist was supported throu
 
 <img src="https://github.com/brittafiore/DataScience/blob/master/Network.png" alt="Network" height="500">
 
-![equation](http://www.sciweavers.org/tex2img.php?eq=Gamma&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=)
+![equation](http://www.sciweavers.org/tex2img.php?eq=%5CGamma&bc=White&fc=Black&im=png&fs=14&ff=arev)
 
 T, ![equation](http://www.sciweavers.org/tex2img.php?eq=Pi&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=), ![equation](http://www.sciweavers.org/tex2img.php?eq=Gamma&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=), ![equation](http://www.sciweavers.org/tex2img.php?eq=Mu&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=). A network view of community-level data science reveals a mix of T-shaped, ![equation](http://www.sciweavers.org/tex2img.php?eq=Pi&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=)-shaped, ![equation](http://www.sciweavers.org/tex2img.php?eq=Gamma&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=)-shaped, ![equation](http://www.sciweavers.org/tex2img.php?eq=Mu&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=)-shaped scientists practicing data science._
 
